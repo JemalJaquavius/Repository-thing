@@ -1,4 +1,4 @@
-public class Main {
+public class Capitalism {
   public static void main(String[] args) {
     String money = "Money is amazing.";
     System.out.println("Many people don't know this, but capitalism is the best");
