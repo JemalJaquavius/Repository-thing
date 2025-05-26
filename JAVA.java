@@ -1,4 +1,4 @@
-public class Numbers {
+public class Main {
   static void myMethod() {
     System.out.println("This is a method that got executed.");
   }
