@@ -1,7 +1,6 @@
-import math
-
-x = input("Enter a number: ")
-
-y = math.sqrt(float(x))
-
-print(f"{y}")
+a = 5
+b = 3
+if a > b:
+  print("a is greater than b")
+else:
+  print("a is not greater than b")
