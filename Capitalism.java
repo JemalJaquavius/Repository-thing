@@ -7,3 +7,4 @@ public class Capitalism {
       System.out.println("Many people say it's corrupt, but Ricky DooHicky , the supposed \"lizard person\", says otherwise.");
     }
   }
+}
