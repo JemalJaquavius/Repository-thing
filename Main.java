@@ -1,3 +1,4 @@
+import java.time.LocalDateTime;
 public class Main {
   static void myMethod() {
     System.out.println("This is a method that got executed.");
@@ -21,5 +22,8 @@ public class Main {
   } else {
     System.out.println("x and y are not equal to 14")
   }
+  LocalTime currentTime = LocalTime.now();
+  System.out.println(currentTime);
+  if (currentTime < 12:00:00.0)
   }
 }
