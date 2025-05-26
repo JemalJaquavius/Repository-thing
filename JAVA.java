@@ -5,3 +5,4 @@ public class Main {
   System.out.println("It is a coding language I am currently learning.");
     System.out.println("I like the number " + number);
   }
+}
