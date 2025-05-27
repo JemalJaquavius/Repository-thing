@@ -9,5 +9,12 @@ public class Capitalism {
       System.out.println(money + " It's true");
     }
     System.out.println("Socialism is bad, because it's communism");
+    int x = 25;
+    if (x + 5 == 30) {
+      System.out.println("Capitalism is cool");
+    } else {
+      System.out.println("Capitalism is still cool");
+    }
+    System.out.println("It's true");
   }
 }
