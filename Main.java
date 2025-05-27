@@ -19,7 +19,7 @@ public class Main {
     System.out.println("five and five make ten");
   } else {
     System.out.println("five and five do not make ten");
-  }
+  myMethod()
   int x = 10;
   int y = 4;
   System.out.println(x + y);
@@ -31,4 +31,5 @@ public class Main {
   LocalTime currentTime = LocalTime.now();
   System.out.println(currentTime);
   }
+  thisMethod();
 }
