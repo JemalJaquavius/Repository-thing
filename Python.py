@@ -21,3 +21,5 @@ firstNumber = input()
 secondNumber = input()
 thirdNumber = firstNumber + secondNumber
 print(thirdNumber)
+if thirdNumber == 69:
+  print("funny number")
