@@ -3,6 +3,12 @@ public class Main {
   static void myMethod() {
     System.out.println("This is a method that got executed.");
   }
+  static void thisMethod() {
+    System.out.println("Another method that got executed");
+      if (8 + 2 == 10) {
+      System.out.println("I like math");
+      }
+  }
   public static void main(String[] args) {
     int number = 5;
   System.out.println("This is Java.");
@@ -24,6 +30,5 @@ public class Main {
   }
   LocalTime currentTime = LocalTime.now();
   System.out.println(currentTime);
-  if (currentTime < 12:00:00.0)
   }
 }
