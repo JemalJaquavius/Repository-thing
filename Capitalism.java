@@ -8,5 +8,6 @@ public class Capitalism {
     } else {
       System.out.println(money + " It's true");
     }
+    System.out.println("Socialism is bad, because it's communism");
   }
 }
