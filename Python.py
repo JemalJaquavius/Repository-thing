@@ -16,3 +16,8 @@ if y == x:
 else:
  print("Incorrect answer")
 print("Math is cool")
+print("Enter two numbers")
+firstNumber = input()
+secondNumber = input()
+thirdNumber = firstNumber + secondNumber
+print(thirdNumber)
