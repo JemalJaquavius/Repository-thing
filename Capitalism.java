@@ -1,4 +1,7 @@
 public class Capitalism {
+  static void moneyMethod() {
+    System.out.println("This is money");
+  }
   public static void main(String[] args) {
     String money = "Money is amazing.";
     System.out.println("Many people don't know this, but capitalism is the best");
@@ -16,5 +19,6 @@ public class Capitalism {
       System.out.println("Capitalism is still cool");
     }
     System.out.println("It's true");
+    moneyMethod();
   }
 }
