@@ -10,7 +10,7 @@ print("So you said {i}, I disagree with that statement")
 
 x = 26
 print("If x + 5 = 31, what is the value of x?")
-y = input("Answer goes here: ")
+y = input()
 if y == x:
  print("Correct answer!")
 else:
