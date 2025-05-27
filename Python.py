@@ -15,3 +15,4 @@ if y == x:
  print("Correct answer!")
 else:
  print("Incorrect answer")
+print("Math is cool")
