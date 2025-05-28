@@ -10,7 +10,6 @@ public class Main {
   System.out.println("This is Java.");
   System.out.println("It is a coding language I am currently learning.");
   System.out.println("I like the number " + number);
-  myMethod();
   if (number + 5 == 10){
     System.out.println("five and five make ten");
   } else {
