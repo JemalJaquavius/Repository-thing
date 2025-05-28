@@ -19,14 +19,14 @@ public class Main {
     System.out.println("five and five make ten");
   } else {
     System.out.println("five and five do not make ten");
-  myMethod()
+  myMethod();
   int x = 10;
   int y = 4;
   System.out.println(x + y);
   if (x + y == 14) {
     System.out.println("x and y are equal to 14");
   } else {
-    System.out.println("x and y are not equal to 14")
+    System.out.println("x and y are not equal to 14");
   }
   LocalTime currentTime = LocalTime.now();
   System.out.println(currentTime);
