@@ -17,5 +17,6 @@ public class Main {
   }
     thisMethod();
     System.out.println(x + " is a number");
+    otherMethod();
    }
 }
